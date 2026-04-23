@@ -1,0 +1,11 @@
+{
+  "name": "apps-ahlab-org",
+  "version": "1.0.0",
+  "description": "Augmented Human Lab — apps showcase at apps.ahlab.org",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve . -l 3001"
+  },
+  "author": "Augmented Human Lab",
+  "license": "UNLICENSED"
+}
